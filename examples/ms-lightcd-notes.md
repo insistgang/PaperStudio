@@ -13,7 +13,7 @@ tags: [论文, 示例, MS-LightCD]
 
 正式 A/B/C 已填在 [MS-LightCD](../papers/MS-LightCD/README.md)。本页只留「填的时候容易填错的地方」，避免第二套过期数字。
 
-真源：`小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-待MathType.docx`。日记、刘老师对照表只当线索。
+真源：`/Users/insistgang/Documents/knowledge/02-Thesis/小论文-计算机工程-MS-LightCD/小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-待MathType.docx`。日记、刘老师对照表只当线索。
 
 ---
 
@@ -41,4 +41,4 @@ tags: [论文, 示例, MS-LightCD]
 
 ## 判决备忘
 
-G2《计算机工程》**有条件可投**。条件是改字 + MathType，不是新实验。详见 [C](C-判决书.md)。
+G2《计算机工程》**有条件可投**。条件是改字 + MathType，不是新实验。详见 [C](../papers/MS-LightCD/C-判决书.md)。

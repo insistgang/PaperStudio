@@ -91,7 +91,7 @@ tags: [论文, 工作流]
 
 PaperStudio 不管字号。转到：
 
-- 通用：知识库 `02-Thesis/Writing/投稿检查清单_2026-02-07.md`
+- 通用：知识库 `/Users/insistgang/Documents/knowledge/02-Thesis/Writing/投稿检查清单_2026-02-07.md`
 - 目标刊专表：如 MS-LightCD 的计算机工程范文对照
 
 仍须核：加粗规则、中英题目、基金、作者单位。
