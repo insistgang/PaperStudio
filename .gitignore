@@ -1,0 +1,6 @@
+.DS_Store
+*.docx
+*.doc
+.tmp/
+.idea/
+.vscode/
