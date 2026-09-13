@@ -8,7 +8,7 @@
 |--|--|
 | 本地 | `/Users/insistgang/Documents/PaperStudio` |
 | 状态 | [dashboard.md](dashboard.md) |
-| 当前稿 | [papers/MS-LightCD](papers/MS-LightCD/README.md) |
+| 当前稿 | [MS-LightCD](papers/MS-LightCD/README.md) · [尹纪元 NIDS](papers/Jiyuan-NIDS/README.md) |
 
 ---
 

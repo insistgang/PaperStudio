@@ -21,3 +21,4 @@ papers/<短名>/
 | 短名 | 正文 | 状态 |
 |------|------|------|
 | [MS-LightCD](MS-LightCD/README.md) | 知识库本机终稿 docx | 有条件可投，剩 MathType |
+| [Jiyuan-NIDS](Jiyuan-NIDS/README.md) | 本目录本地 docx（gitignore） | 不可投 CSCD，先对齐表 5 |
