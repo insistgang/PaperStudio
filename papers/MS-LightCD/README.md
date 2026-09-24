@@ -12,8 +12,8 @@ tags: [论文, MS-LightCD, PaperStudio]
 # MS-LightCD｜PaperStudio 档案
 
 > 目标刊：《计算机工程》（G2 CSCD）。  
-> 正文真源：`/Users/insistgang/Documents/knowledge/02-Thesis/小论文-计算机工程-MS-LightCD/小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-待MathType.docx`（2026-09-13 PaperStudio 防守补丁已写入；docx 不入库）。  
-> 备份：`…-备份-PaperStudio前-20260913.docx`  
+> 正文真源（2026-09-13 21:24 微信最新稿，MathType 已插）：本目录 `小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-MathType已插.docx`（gitignore，不入库）。  
+> 知识库副本同名。备份仍在知识库 `…-待MathType-备份-P4前-20260913.docx`。  
 > 数字以该稿为准。未授权不投稿、不上传系统。
 
 | 文件 | 状态 | 结论一句 |
@@ -22,12 +22,12 @@ tags: [论文, MS-LightCD, PaperStudio]
 | [灵魂拷问](灵魂拷问.md) | 已跑 P1 | 5 条，无未关死穴 |
 | [B](B-压力测试.md) | 已填 | 0 死穴；声称级半防已写入 Word |
 | [C](C-判决书.md) | 已填 | **有条件可投**《计算机工程》 |
-| [防守补丁](防守补丁.md) | 已写入终稿 | 剩 MathType |
+| [防守补丁](防守补丁.md) | 已写入终稿 | 已进 21:24 稿 |
+| [语体校准](语体校准.md) | 已写入终稿 Word | 已进 21:24 稿 |
 
 投前剩余：
 
-1. **MathType** 替换公式（1）–（10），式（6）用 Ŷ 消歧版
-2. 本机终读（加粗、贡献条、摘要口径）
-3. 你授权后系统投稿
+1. ~~本机终读：公式 3/4 编号表、字号、表 4 加粗~~ 已完成（2026-09-14）
+2. 你授权后系统投稿（本仓库不做上传，投稿在《计算机工程》系统内由你操作）
 
 看板：[dashboard.md](../../dashboard.md)
