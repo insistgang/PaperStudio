@@ -13,7 +13,7 @@ tags: [论文, 解剖, 卖点]
 # A. MS-LightCD 核心解剖与卖点提炼表
 
 > 真源：`小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-待MathType.docx`（2026-09-11）。  
-> 口径：[审稿人口径](../../docs/reviewer.md) · [创新点判定标准](../../docs/innovation.md)
+> 口径：[审稿人口径](/Users/insistgang/Desktop/个人工具/PaperStudio/docs/reviewer.md) · [创新点判定标准](/Users/insistgang/Desktop/个人工具/PaperStudio/docs/innovation.md)
 
 ---
 

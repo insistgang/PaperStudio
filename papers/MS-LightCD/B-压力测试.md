@@ -14,7 +14,7 @@ tags: [论文, 审稿, 压力测试]
 
 > 前置：[A](A-解剖.md)  
 > P1：[灵魂拷问](灵魂拷问.md)  
-> 口径：[审稿人口径](../../docs/reviewer.md)  
+> 口径：[审稿人口径](/Users/insistgang/Desktop/个人工具/PaperStudio/docs/reviewer.md)  
 > 真源：`/Users/insistgang/Documents/knowledge/02-Thesis/小论文-计算机工程-MS-LightCD/小论文-CSCD-计算机工程-MS-LightCD-最终投稿版-待MathType.docx`
 
 **裁决定义**见模板。关闭死穴 = 补实验 **或** 真的改声称。
