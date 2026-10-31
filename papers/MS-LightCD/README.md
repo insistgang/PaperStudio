@@ -13,7 +13,7 @@ tags: [论文, MS-LightCD, PaperStudio]
 
 > 目标刊：《计算机工程》（G2 CSCD）。  
 > 本目录诊断与本机 Word 对应 2026-09-13/14 阶段，保留用于回溯。  
-> 本档案通过 PaperStudio 项目的符号链接指向知识库 `reviews/PaperStudio/`，两处入口访问的是同一份材料。后续正文统一从 [知识库稿件目录](/Users/insistgang/Documents/knowledge/02-Thesis/小论文-计算机工程-MS-LightCD) 查看；10 月 4 日合并稿与 10 月 7 日文献修订候选的入口见 [看板](/Users/insistgang/Desktop/个人工具/PaperStudio/dashboard.md)。  
+> 本档案内容与知识库 `reviews/PaperStudio/` 保持同步（2026-10-31 起本目录为实体文件，不再经符号链接跳转）。后续正文统一从 [知识库稿件目录](/Users/insistgang/Documents/knowledge/02-Thesis/小论文-计算机工程-MS-LightCD) 查看；10 月 4 日合并稿与 10 月 7 日文献修订候选的入口见 [看板](/Users/insistgang/Desktop/个人工具/PaperStudio/dashboard.md)。  
 > 下表判决与数值边界属于当时版本；本次未重新审稿，不据此认定新稿可直接投稿。未授权不投稿、不上传系统。
 
 | 文件 | 状态 | 结论一句 |
