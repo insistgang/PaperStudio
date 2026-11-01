@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="PaperStudio：论文投前诊断与改稿工作流，包含卖点解剖、审稿压力测试、改稿判决和投稿检查。">
   <title>PaperStudio · 论文投前诊断工作流</title>
+  <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32" />
+  <link rel="icon" href="favicon-192.png" type="image/png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="favicon-192.png" />
   <style>
     :root { color-scheme: dark; --bg:#111418; --card:#1b2025; --line:#343b42; --text:#eeeae0; --muted:#aab0b5; --accent:#bad0da; }
     * { box-sizing: border-box; }
@@ -12,7 +15,9 @@
     main { width:min(100% - 40px,1000px); margin:0 auto; }
     header { padding:76px 0 40px; border-bottom:1px solid var(--line); }
     .kicker { color:var(--muted); font-size:12px; letter-spacing:.16em; }
-    h1 { margin:14px 0 18px; font-size:clamp(32px,5vw,48px); letter-spacing:-.03em; }
+    .brand { display:flex; align-items:center; gap:14px; }
+    .brand img { width:52px; height:52px; border-radius:14px; }
+    h1 { margin:0; font-size:clamp(32px,5vw,48px); letter-spacing:-.03em; }
     .lead { max-width:740px; margin:0; color:var(--muted); font-size:17px; }
     section { padding:36px 0 0; }
     h2 { margin:0 0 18px; font-size:24px; }
@@ -31,7 +36,7 @@
 <main>
   <header>
     <div class="kicker">PAPER REVIEW WORKFLOW</div>
-    <h1>PaperStudio</h1>
+    <div class="brand"><img src="favicon.svg" alt=""><h1>PaperStudio</h1></div>
     <p class="lead">论文投前诊断与改稿工作流：把「感觉有创新」压成「审稿人能复述的机制、可证伪的证据，以及与成果匹配的期刊」。</p>
   </header>
 
